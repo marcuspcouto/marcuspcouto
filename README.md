@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+<div>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=marcuspcouto&show_icons=true&theme=react" />
+    <img align="right" height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcuspcouto&layout=compact&langs_count=16&theme=react"/>
+</div>
 <!--
 **marcuspcouto/marcuspcouto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
